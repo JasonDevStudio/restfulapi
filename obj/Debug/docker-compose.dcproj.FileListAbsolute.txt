@@ -1,0 +1,4 @@
+/Users/yaojie/Projects/webapp/bin/Debug/webapp.dll
+/Users/yaojie/Projects/webapp/bin/Debug/webapp.pdb
+/Users/yaojie/Projects/webapp/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
+/Users/yaojie/Projects/webapp/obj/Debug/docker-compose.dcproj.CopyComplete

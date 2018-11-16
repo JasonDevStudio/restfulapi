@@ -1,0 +1,11 @@
+/Users/yaojie/Projects/webapp/RestfulClient/bin/Debug/netcoreapp2.1/RestfulClient.deps.json
+/Users/yaojie/Projects/webapp/RestfulClient/bin/Debug/netcoreapp2.1/RestfulClient.runtimeconfig.json
+/Users/yaojie/Projects/webapp/RestfulClient/bin/Debug/netcoreapp2.1/RestfulClient.runtimeconfig.dev.json
+/Users/yaojie/Projects/webapp/RestfulClient/bin/Debug/netcoreapp2.1/RestfulClient.dll
+/Users/yaojie/Projects/webapp/RestfulClient/bin/Debug/netcoreapp2.1/RestfulClient.pdb
+/Users/yaojie/Projects/webapp/RestfulClient/obj/Debug/netcoreapp2.1/RestfulClient.csprojAssemblyReference.cache
+/Users/yaojie/Projects/webapp/RestfulClient/obj/Debug/netcoreapp2.1/RestfulClient.csproj.CoreCompileInputs.cache
+/Users/yaojie/Projects/webapp/RestfulClient/obj/Debug/netcoreapp2.1/RestfulClient.AssemblyInfoInputs.cache
+/Users/yaojie/Projects/webapp/RestfulClient/obj/Debug/netcoreapp2.1/RestfulClient.AssemblyInfo.cs
+/Users/yaojie/Projects/webapp/RestfulClient/obj/Debug/netcoreapp2.1/RestfulClient.dll
+/Users/yaojie/Projects/webapp/RestfulClient/obj/Debug/netcoreapp2.1/RestfulClient.pdb
