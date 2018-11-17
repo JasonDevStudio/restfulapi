@@ -1,0 +1,5 @@
+/Volumes/MAC_VM/00_GitHub/restfulapi/bin/Release/webapp.dll
+/Volumes/MAC_VM/00_GitHub/restfulapi/bin/Release/webapp.pdb
+/Volumes/MAC_VM/00_GitHub/restfulapi/obj/Release/docker-compose.dcprojAssemblyReference.cache
+/Volumes/MAC_VM/00_GitHub/restfulapi/obj/Release/docker-compose.dcproj.CoreCompileInputs.cache
+/Volumes/MAC_VM/00_GitHub/restfulapi/obj/Release/docker-compose.dcproj.CopyComplete

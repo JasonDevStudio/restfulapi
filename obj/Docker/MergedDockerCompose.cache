@@ -1,7 +1,7 @@
 services:
   webapp:
     build:
-      context: /Users/yaojie/Projects/webapp
+      context: /Volumes/MAC_VM/00_GitHub/restfulapi
       dockerfile: webapp/Dockerfile
     environment:
       ASPNETCORE_ENVIRONMENT: Development

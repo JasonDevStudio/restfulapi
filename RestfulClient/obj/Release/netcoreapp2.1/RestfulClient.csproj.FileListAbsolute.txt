@@ -1,0 +1,10 @@
+/Volumes/MAC_VM/00_GitHub/restfulapi/RestfulClient/bin/Release/netcoreapp2.1/RestfulClient.deps.json
+/Volumes/MAC_VM/00_GitHub/restfulapi/RestfulClient/bin/Release/netcoreapp2.1/RestfulClient.runtimeconfig.json
+/Volumes/MAC_VM/00_GitHub/restfulapi/RestfulClient/bin/Release/netcoreapp2.1/RestfulClient.runtimeconfig.dev.json
+/Volumes/MAC_VM/00_GitHub/restfulapi/RestfulClient/bin/Release/netcoreapp2.1/RestfulClient.dll
+/Volumes/MAC_VM/00_GitHub/restfulapi/RestfulClient/bin/Release/netcoreapp2.1/RestfulClient.pdb
+/Volumes/MAC_VM/00_GitHub/restfulapi/RestfulClient/obj/Release/netcoreapp2.1/RestfulClient.csproj.CoreCompileInputs.cache
+/Volumes/MAC_VM/00_GitHub/restfulapi/RestfulClient/obj/Release/netcoreapp2.1/RestfulClient.AssemblyInfoInputs.cache
+/Volumes/MAC_VM/00_GitHub/restfulapi/RestfulClient/obj/Release/netcoreapp2.1/RestfulClient.AssemblyInfo.cs
+/Volumes/MAC_VM/00_GitHub/restfulapi/RestfulClient/obj/Release/netcoreapp2.1/RestfulClient.dll
+/Volumes/MAC_VM/00_GitHub/restfulapi/RestfulClient/obj/Release/netcoreapp2.1/RestfulClient.pdb

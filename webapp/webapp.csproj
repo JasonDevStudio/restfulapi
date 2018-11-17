@@ -16,10 +16,21 @@
   <ItemGroup>
     <Folder Include="wwwroot\" />
     <Folder Include="Entities\" />
+    <Folder Include="App_Code\" />
+    <Folder Include="App_Code\Common\" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.Owin.Security.OAuth" Version="4.0.0" />
+    <PackageReference Include="Microsoft.AspNet.Identity.Owin" Version="2.2.2" />
+    <PackageReference Include="Microsoft.AspNet.WebApi.Owin" Version="5.2.6" />
+    <PackageReference Include="Microsoft.Owin.Host.SystemWeb" Version="4.0.0" />
+    <PackageReference Include="Microsoft.Owin.Host.SystemWeb.zh-Hans" Version="4.0.0" />
+    <PackageReference Include="Microsoft.Owin.Cors" Version="4.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Remove="Controllers\TestController.cs" />
+  </ItemGroup>
 </Project>

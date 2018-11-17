@@ -749,11 +749,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yaojie/Projects/webapp/RestfulClient/RestfulClient.csproj",
+      "projectUniqueName": "/Volumes/MAC_VM/00_GitHub/restfulapi/RestfulClient/RestfulClient.csproj",
       "projectName": "RestfulClient",
-      "projectPath": "/Users/yaojie/Projects/webapp/RestfulClient/RestfulClient.csproj",
+      "projectPath": "/Volumes/MAC_VM/00_GitHub/restfulapi/RestfulClient/RestfulClient.csproj",
       "packagesPath": "/Users/yaojie/.nuget/packages/",
-      "outputPath": "/Users/yaojie/Projects/webapp/RestfulClient/obj",
+      "outputPath": "/Volumes/MAC_VM/00_GitHub/restfulapi/RestfulClient/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

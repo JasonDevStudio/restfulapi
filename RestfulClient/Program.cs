@@ -22,6 +22,12 @@ namespace RestfulClient
                 Console.WriteLine(remsg.Content);
                 Console.WriteLine();
                 Console.WriteLine(JsonConvert.SerializeObject(response.Data));
+
+                request = new RestRequest("api/Home", Method.POST);
+                request.AddQueryParameter("name", "神奇女侠");
+                request.AddQueryParameter("pwd", "yingmie"); 
+                var resp = client.Execute(request);
+                Console.WriteLine(resp.Content);
             }
             catch (Exception ex)
             {
