@@ -1,11 +1,29 @@
 ﻿<Properties StartupConfiguration="{E1E976AB-3496-4724-A25B-0EF57ED61AB3}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="aspnet_mvc_api/App_Code/Common/SimpleAuthorizationServerProvider.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="aspnet_mvc_api/Startup.cs">
     <Files>
       <File FileName="webapp/Startup.cs" Line="49" Column="17" />
       <File FileName="aspnet_mvc_api/Controllers/HomeController.cs" Line="24" Column="1" />
-      <File FileName="aspnet_mvc_api/Startup.cs" Line="1" Column="1" />
-      <File FileName="aspnet_mvc_api/App_Code/Common/SimpleAuthorizationServerProvider.cs" Line="4" Column="37" />
+      <File FileName="aspnet_mvc_api/Startup.cs" Line="17" Column="67" />
+      <File FileName="aspnet_mvc_api/App_Code/Common/SimpleAuthorizationServerProvider.cs" Line="32" Column="23" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="webapp" expanded="True">
+            <Node name="aspnet_mvc_api" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True" />
+              <Node name="App_Code" expanded="True">
+                <Node name="Common" expanded="True" />
+              </Node>
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+            <Node name="aspnet_mvc_api.Tests" expanded="True" />
+            <Node name="webapp" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.RestfulClient PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
