@@ -26,3 +26,11 @@
 /Volumes/MAC_VM/00_GitHub/restfulapi/webapp/obj/Debug/netcoreapp2.1/webapp.RazorTargetAssemblyInfo.cache
 /Volumes/MAC_VM/00_GitHub/restfulapi/webapp/obj/Debug/netcoreapp2.1/webapp.dll
 /Volumes/MAC_VM/00_GitHub/restfulapi/webapp/obj/Debug/netcoreapp2.1/webapp.pdb
+C:\Users\jiede\source\repos\restfulapi\webapp\obj\Debug\netcoreapp2.1\webapp.csprojAssemblyReference.cache
+C:\Users\jiede\source\repos\restfulapi\webapp\obj\Debug\netcoreapp2.1\webapp.csproj.CoreCompileInputs.cache
+C:\Users\jiede\source\repos\restfulapi\webapp\obj\Debug\netcoreapp2.1\webapp.RazorAssemblyInfo.cache
+C:\Users\jiede\source\repos\restfulapi\webapp\obj\Debug\netcoreapp2.1\webapp.RazorAssemblyInfo.cs
+C:\Users\jiede\source\repos\restfulapi\webapp\obj\Debug\netcoreapp2.1\webapp.AssemblyInfoInputs.cache
+C:\Users\jiede\source\repos\restfulapi\webapp\obj\Debug\netcoreapp2.1\webapp.AssemblyInfo.cs
+C:\Users\jiede\source\repos\restfulapi\webapp\obj\Debug\netcoreapp2.1\webapp.dll
+C:\Users\jiede\source\repos\restfulapi\webapp\obj\Debug\netcoreapp2.1\webapp.pdb

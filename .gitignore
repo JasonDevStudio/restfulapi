@@ -3,3 +3,5 @@
 ################################################################################
 
 /aspnet_mvc_api.Tests/obj/Debug
+/aspnet_mvc_api.Tests/obj/Release/aspnet_mvc_api.Tests.csproj.CoreCompileInputs.cache
+/.vs

@@ -1,11 +1,12 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webapp", "webapp\webapp.csproj", "{5474DD72-11AA-46B9-A691-ED882AC0A538}"
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "webapp", "webapp\webapp.csproj", "{5474DD72-11AA-46B9-A691-ED882AC0A538}"
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{8B4E7C8F-3D49-4293-BDBE-A0228F2D857D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestfulClient", "RestfulClient\RestfulClient.csproj", "{E1E976AB-3496-4724-A25B-0EF57ED61AB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestfulClient", "RestfulClient\RestfulClient.csproj", "{E1E976AB-3496-4724-A25B-0EF57ED61AB3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnet_mvc_api", "aspnet_mvc_api\aspnet_mvc_api.csproj", "{974FD950-93B9-409D-84F0-67ED45D0A4D6}"
 EndProject
@@ -37,5 +38,11 @@ Global
 		{82425AA3-3F7D-4D83-9C3F-13D940958FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82425AA3-3F7D-4D83-9C3F-13D940958FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82425AA3-3F7D-4D83-9C3F-13D940958FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFD49A30-BC0B-43D7-BAD7-A4795EBB3054}
 	EndGlobalSection
 EndGlobal

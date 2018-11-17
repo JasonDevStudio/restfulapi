@@ -534,10 +534,11 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.1.0": {
-      "sha512": "TT+QCi9LcxGTjBssH7S7n5+8DVcwfG4DYgXX7Dk7+BfZ4oVHj8Q0CbYk9glzAlHLsSt3bYzol+fOdra2iu6GOw==",
+      "sha512": "aSTPL94NloSiQVL5Len8wbjFKOnoAX/vOh3s3DF6g3c7GUUMLCDvnBhmA72M2iN2AedyA8hpr7m89kzSAKUnJQ==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -693,10 +694,12 @@
       ]
     },
     "Newtonsoft.Json/11.0.2": {
-      "sha512": "IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "sha512": "znZGbws7E4BA9jxNZ7FuiIRI3C9hrgatVQSTKhIYZYNOud4M5VfGlTYi6RdYO5sQrebFuF/g9UEV3hOxDMXF6Q==",
       "type": "package",
       "path": "newtonsoft.json/11.0.2",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.md",
         "lib/net20/Newtonsoft.Json.dll",
         "lib/net20/Newtonsoft.Json.xml",
@@ -721,10 +724,11 @@
       ]
     },
     "RestSharp/106.5.4": {
-      "sha512": "YaGn6olg2GD0gLy7YDG1FsSnC6TBwgn/zZSONiOj7hPFJJ0Q+k2hBogyalUXkodihVa0ugRwCqSPCiqdNyFKzA==",
+      "sha512": "AOAzWW/L0YNxOLjc2foBmKFRBGNshfKXlpQrWtX9U5fArZsuiz9o9tb2QsY6uXtMEtRdKJcj3J2Mw4L6UJVaAA==",
       "type": "package",
       "path": "restsharp/106.5.4",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/net452/RestSharp.dll",
         "lib/net452/RestSharp.xml",
@@ -743,28 +747,30 @@
     ]
   },
   "packageFolders": {
-    "/Users/yaojie/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\jiede\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/MAC_VM/00_GitHub/restfulapi/RestfulClient/RestfulClient.csproj",
+      "projectUniqueName": "C:\\Users\\jiede\\source\\repos\\restfulapi\\RestfulClient\\RestfulClient.csproj",
       "projectName": "RestfulClient",
-      "projectPath": "/Volumes/MAC_VM/00_GitHub/restfulapi/RestfulClient/RestfulClient.csproj",
-      "packagesPath": "/Users/yaojie/.nuget/packages/",
-      "outputPath": "/Volumes/MAC_VM/00_GitHub/restfulapi/RestfulClient/obj",
+      "projectPath": "C:\\Users\\jiede\\source\\repos\\restfulapi\\RestfulClient\\RestfulClient.csproj",
+      "packagesPath": "C:\\Users\\jiede\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jiede\\source\\repos\\restfulapi\\RestfulClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/yaojie/.config/NuGet/NuGet.Config"
+        "C:\\Users\\jiede\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -781,19 +787,18 @@
     "frameworks": {
       "netcoreapp2.1": {
         "dependencies": {
-          "RestSharp": {
+          "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "106.5.4"
+            "version": "[2.1.0, )",
+            "autoReferenced": true
           },
           "Newtonsoft.Json": {
             "target": "Package",
-            "version": "11.0.2"
+            "version": "[11.0.2, )"
           },
-          "Microsoft.NETCore.App": {
-            "suppressParent": "All",
+          "RestSharp": {
             "target": "Package",
-            "version": "2.1",
-            "autoReferenced": true
+            "version": "[106.5.4, )"
           }
         },
         "imports": [
